@@ -1,0 +1,201 @@
+{
+  "categories": [
+    {
+      "name": "1",
+      "items": [
+        {
+          "name": "Swaf",
+          "brand": "Dr Gab's",
+          "country": "ch",
+          "type": "lager",
+          "abv": "4.5%"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "items": [
+        {
+          "name": "Wingman",
+          "brand": "Brewdog",
+          "country": "gb",
+          "type": "blonde",
+          "abv": "4.3%"
+        },
+        {
+          "brand": "Brewdog",
+          "name": "Lost",
+          "country": "gb",
+          "type": "lager",
+          "abv": "4.5%"
+        },
+        {
+          "name": "Cuvée des Trolls",
+          "brand": "Dubuisson",
+          "country": "be",
+          "type": "blonde",
+          "abv": "7%"
+        },
+        {
+          "name": "Blonde",
+          "brand": "Leffe",
+          "country": "be",
+          "type": "blonde",
+          "abv": "6.6%"
+        },
+        {
+          "name": "Wittekop",
+          "brand": "Amstein",
+          "country": "ch",
+          "type": "blanche",
+          "abv": "5%"
+        },
+        {
+          "name": "Hoegaarden",
+          "brand": "Hoegaarden",
+          "country": "be",
+          "type": "blanche",
+          "abv": "4.9%"
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "items": [
+        {
+          "name": "Blanche",
+          "brand": "Jorat",
+          "country": "ch",
+          "type": "blanche",
+          "abv": "5.5%"
+        },
+        {
+          "name": "Blonde",
+          "brand": "Jorat",
+          "country": "ch",
+          "type": "blonde",
+          "abv": "5%"
+        },
+        {
+          "name": "IPA",
+          "brand": "Jorat",
+          "country": "ch",
+          "type": "ipa",
+          "abv": "5.8%"
+        },
+        {
+          "name": "Speakeasy",
+          "brand": "Nébuleuse",
+          "country": "ch",
+          "type": "ipa",
+          "abv": "4%"
+        },
+        {
+          "name": "Embuscade",
+          "brand": "Nébuleuse",
+          "country": "ch",
+          "type": "ipa",
+          "abv": "6.7%"
+        },
+        {
+          "name": "Stirling",
+          "brand": "Nébuleuse",
+          "country": "ch",
+          "type": "blonde",
+          "abv": "5.3%"
+        },
+        {
+          "name": "Moonshine",
+          "brand": "Nébuleuse",
+          "country": "ch",
+          "type": "blanche",
+          "abv": "5%"
+        },
+        {
+          "brand": "Brewdog",
+          "name": "Punk IPA - Brewdog",
+          "country": "gb",
+          "type": "ipa",
+          "abv": "5.4%"
+        },
+        {
+          "brand": "Brewdog",
+          "name": "Hazy Jane - Brewdog",
+          "country": "gb",
+          "type": "ipa",
+          "abv": "5%"
+        },
+        {
+          "name": "Bush",
+          "brand": "Dubuisson",
+          "country": "be",
+          "type": "blonde",
+          "abv": "12%"
+        },
+        {
+          "name": "Paix Dieu",
+          "brand": "Abbaye Cistercienne",
+          "country": "be",
+          "type": "blonde",
+          "abv": "10%"
+        },
+        {
+          "name": "La Blonde",
+          "brand": "Corbeau",
+          "country": "be",
+          "type": "blonde",
+          "abv": "9%"
+        },
+        {
+          "name": "Porn Star",
+          "brand": "Hoppy People",
+          "country": "ch",
+          "type": "ipa",
+          "abv": "6.1%"
+        },
+        {
+          "name": "La Chouffe",
+          "brand": "Achouffe",
+          "country": "be",
+          "type": "blonde",
+          "abv": "8%"
+        },
+        {
+          "name": "Barbar",
+          "brand": "Lefebvre",
+          "country": "be",
+          "type": "brune",
+          "abv": "8%"
+        },
+        {
+          "name": "Martigny Vice",
+          "brand": "WhiteFrontier",
+          "country": "ch",
+          "type": "blonde",
+          "abv": "3.5%"
+        },
+        {
+          "name": "Pecheresse",
+          "brand": "Lindemans",
+          "country": "be",
+          "type": "lambic",
+          "abv": "2.5%"
+        },
+        {
+          "name": "Rosé",
+          "brand": "La Chouette",
+          "country": "fr",
+          "type": "cidre",
+          "abv": "4.5%"
+        },
+        {
+          "name": "Double",
+          "brand": "La Chouette",
+          "country": "fr",
+          "type": "cidre",
+          "abv": "7%"
+        }
+      ]
+    }
+  ]
+}
